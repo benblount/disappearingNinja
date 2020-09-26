@@ -1,0 +1,10 @@
+#top-row,
+#bottom-row {
+  display: block;
+}
+
+img {
+  width: 100px;
+  margin: 10px;
+  border: 1px solid black;
+}
